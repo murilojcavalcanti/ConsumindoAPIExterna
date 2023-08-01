@@ -8,7 +8,8 @@ Com esse Sistema é possível criar e manipular um modelo de musicas. utilizando
 
 Sistema criado a partir das aulas da Plataforma de ensino Alura
 
-##Rodar APP no VSCode
+```bash
+## Rodar APP no VSCode
 
 Para rodar o projeto use o terminal e rode o seguinte comando:
 
