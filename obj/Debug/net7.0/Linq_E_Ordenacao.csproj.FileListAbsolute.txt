@@ -1,0 +1,15 @@
+C:\Users\muril\Documents\00_Programacao\Alura\back\.NET\Curso_C#_ConsumindoAPIExterna\Linq_E_Ordenacao\bin\Debug\net7.0\Linq_E_Ordenacao.exe
+C:\Users\muril\Documents\00_Programacao\Alura\back\.NET\Curso_C#_ConsumindoAPIExterna\Linq_E_Ordenacao\bin\Debug\net7.0\Linq_E_Ordenacao.deps.json
+C:\Users\muril\Documents\00_Programacao\Alura\back\.NET\Curso_C#_ConsumindoAPIExterna\Linq_E_Ordenacao\bin\Debug\net7.0\Linq_E_Ordenacao.runtimeconfig.json
+C:\Users\muril\Documents\00_Programacao\Alura\back\.NET\Curso_C#_ConsumindoAPIExterna\Linq_E_Ordenacao\bin\Debug\net7.0\Linq_E_Ordenacao.dll
+C:\Users\muril\Documents\00_Programacao\Alura\back\.NET\Curso_C#_ConsumindoAPIExterna\Linq_E_Ordenacao\bin\Debug\net7.0\Linq_E_Ordenacao.pdb
+C:\Users\muril\Documents\00_Programacao\Alura\back\.NET\Curso_C#_ConsumindoAPIExterna\Linq_E_Ordenacao\obj\Debug\net7.0\Linq_E_Ordenacao.csproj.AssemblyReference.cache
+C:\Users\muril\Documents\00_Programacao\Alura\back\.NET\Curso_C#_ConsumindoAPIExterna\Linq_E_Ordenacao\obj\Debug\net7.0\Linq_E_Ordenacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\Documents\00_Programacao\Alura\back\.NET\Curso_C#_ConsumindoAPIExterna\Linq_E_Ordenacao\obj\Debug\net7.0\Linq_E_Ordenacao.AssemblyInfoInputs.cache
+C:\Users\muril\Documents\00_Programacao\Alura\back\.NET\Curso_C#_ConsumindoAPIExterna\Linq_E_Ordenacao\obj\Debug\net7.0\Linq_E_Ordenacao.AssemblyInfo.cs
+C:\Users\muril\Documents\00_Programacao\Alura\back\.NET\Curso_C#_ConsumindoAPIExterna\Linq_E_Ordenacao\obj\Debug\net7.0\Linq_E_Ordenacao.csproj.CoreCompileInputs.cache
+C:\Users\muril\Documents\00_Programacao\Alura\back\.NET\Curso_C#_ConsumindoAPIExterna\Linq_E_Ordenacao\obj\Debug\net7.0\Linq_E_Ordenacao.dll
+C:\Users\muril\Documents\00_Programacao\Alura\back\.NET\Curso_C#_ConsumindoAPIExterna\Linq_E_Ordenacao\obj\Debug\net7.0\refint\Linq_E_Ordenacao.dll
+C:\Users\muril\Documents\00_Programacao\Alura\back\.NET\Curso_C#_ConsumindoAPIExterna\Linq_E_Ordenacao\obj\Debug\net7.0\Linq_E_Ordenacao.pdb
+C:\Users\muril\Documents\00_Programacao\Alura\back\.NET\Curso_C#_ConsumindoAPIExterna\Linq_E_Ordenacao\obj\Debug\net7.0\Linq_E_Ordenacao.genruntimeconfig.cache
+C:\Users\muril\Documents\00_Programacao\Alura\back\.NET\Curso_C#_ConsumindoAPIExterna\Linq_E_Ordenacao\obj\Debug\net7.0\ref\Linq_E_Ordenacao.dll
